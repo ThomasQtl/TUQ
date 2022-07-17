@@ -15,7 +15,7 @@ Le **site internet** du projet est disponible [ici](https://perso.isima.fr/~thqu
 
 ### Pour lancer le jeu
 Il faut importer la **librairie Minim**.<br />
-Puis ouvrir le fichier TUQ.pde et executer ce dernier qui contient la fonction draw().
+Puis ouvrir le fichier TUQ.pde et exécuter ce dernier qui contient la fonction draw().
 
 ### Commandes
 Pour déplacer une pièce, il faut utiliser les flèches droite et gauche.<br />
